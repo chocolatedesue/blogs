@@ -133,8 +133,8 @@ repoID = "R_kgDOI2XGRA"
 category = "Announcements"
 categoryID = "DIC_kwDOI2XGRM4CT1S7"
 mapping = "pathname"
-lightTheme = "light_high_contrast"
-darkTheme = "dark_high_contrast"
+lightTheme = "light"
+darkTheme = "dark"
 reactionsEnabled = 1
 emitMetadata = 0
 

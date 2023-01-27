@@ -128,13 +128,13 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
-lightTheme = ""
-darkTheme = ""
+repo = "chocolatedesue/blogs"
+repoID = "R_kgDOI2XGRA"
+category = "Announcements"
+categoryID = "DIC_kwDOI2XGRM4CT1S7"
+mapping = "pathname"
+lightTheme = "light_high_contrast"
+darkTheme = "dark_high_contrast"
 reactionsEnabled = 1
 emitMetadata = 0
 

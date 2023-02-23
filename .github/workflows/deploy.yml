@@ -54,4 +54,4 @@ jobs:
                   folder: public
                   clean: true
                   single-commit: true
-                  token: ${{ secrets.TEST_TOKEN }}
+                  token: ${{ secrets.GITHUB_TOKEN }}

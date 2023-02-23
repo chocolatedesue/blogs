@@ -8,6 +8,9 @@ on:
     pull_request:
         branches: [master]
 
+permissions:
+  contents: write
+
 jobs:
     build:
         runs-on: ubuntu-latest
@@ -54,4 +57,4 @@ jobs:
                   folder: public
                   clean: true
                   single-commit: true
-                  token: ${{ secrets.GITHUB_TOKEN }}
+

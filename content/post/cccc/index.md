@@ -3,6 +3,8 @@ title: "Cccc"
 description: 
 date: 2023-02-23T19:22:52+08:00
 image: 
+categories:  
+    - algorithm
 math: 
 license: 
 
@@ -17,5 +19,11 @@ license:
 观察公差，记录首项，特判同组相邻的情况
 
 
-[代码](./l1-049.cpp)
+[代码](./L1-049.cpp)
 
+### [L2-016 愿天下有情人都是失散多年的兄妹](https://pintia.cn/problem-sets/994805046380707840/exam/problems/994805061769609216)
+
+#### 思路
+暴搜5代，读入时记得标记父母，输出可能会提问。。。
+    
+[代码](./L2-016.cpp)

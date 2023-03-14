@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>algorithm on chocolatedesue</title><link>https://chocolatedesue.github.io/blogs/categories/algorithm/</link><description>Recent content in algorithm on chocolatedesue</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 23 Feb 2023 19:22:52 +0800</lastBuildDate><atom:link href="https://chocolatedesue.github.io/blogs/categories/algorithm/index.xml" rel="self" type="application/rss+xml"/><item><title>Cccc</title><link>https://chocolatedesue.github.io/blogs/p/cccc/</link><pubDate>Thu, 23 Feb 2023 19:22:52 +0800</pubDate><guid>https://chocolatedesue.github.io/blogs/p/cccc/</guid><description>&lt;h1 id="cccc-题解">cccc 题解&lt;/h1>
+&lt;h2 id="题目">题目&lt;/h2>
+&lt;h3 id="l1-049-天梯赛座位分配httpspintiacnproblem-sets994805046380707840examproblems994805081289900032">&lt;a class="link" href="https://pintia.cn/problem-sets/994805046380707840/exam/problems/994805081289900032" target="_blank" rel="noopener"
+>L1-049 天梯赛座位分配&lt;/a>&lt;/h3>
+&lt;h4 id="思路">思路&lt;/h4>
+&lt;p>观察公差，记录首项，特判同组相邻的情况&lt;/p>
+&lt;p>&lt;a class="link" href="./L1-049.cpp" >代码&lt;/a>&lt;/p>
+&lt;h3 id="l2-016-愿天下有情人都是失散多年的兄妹httpspintiacnproblem-sets994805046380707840examproblems994805061769609216">&lt;a class="link" href="https://pintia.cn/problem-sets/994805046380707840/exam/problems/994805061769609216" target="_blank" rel="noopener"
+>L2-016 愿天下有情人都是失散多年的兄妹&lt;/a>&lt;/h3>
+&lt;h4 id="思路-1">思路&lt;/h4>
+&lt;p>暴搜5代，读入时记得标记父母，输出可能会提问。。。&lt;/p>
+&lt;p>&lt;a class="link" href="./L2-016.cpp" >代码&lt;/a>&lt;/p>
+&lt;h3 id="l2-041-插松枝httpspintiacnproblem-sets994805046380707840examproblems1518582268930473984">&lt;a class="link" href="https://pintia.cn/problem-sets/994805046380707840/exam/problems/1518582268930473984" target="_blank" rel="noopener"
+>L2-041 插松枝&lt;/a>&lt;/h3>
+&lt;h4 id="思路-2">思路&lt;/h4>
+&lt;p>大模拟&lt;/p>
+&lt;p>&lt;a class="link" href="./L2-041.cpp" >代码&lt;/a>&lt;/p></description></item></channel></rss>
